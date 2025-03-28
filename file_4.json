@@ -1,0 +1,66 @@
+{
+  "FLY BLACK G-SM16BLK GEOZON": {
+    "brand": "Geozon",
+    "type": "Смарт-часы",
+    "material": "металл",
+    "technology": "TFT",
+    "link": "https://parsinger.ru/html/watch/1/1_25.html",
+    "price": "3880 руб"
+  },
+  "Canyon - CNS-SW81BG ": {
+    "brand": "Canyon",
+    "type": "Смарт-часы",
+    "material": "пластик, металл",
+    "technology": "IPS",
+    "link": "https://parsinger.ru/html/watch/1/1_26.html",
+    "price": "4510 руб"
+  },
+  "MAGIC 2 BLACK 46MM MNS-B39 HONOR": {
+    "brand": "Honor",
+    "type": "умные часы",
+    "material": "пластик, металл",
+    "technology": "AMOLED",
+    "link": "https://parsinger.ru/html/watch/1/1_27.html",
+    "price": "11480 руб"
+  },
+  "BAND FIT PLUS RED G-SM14RED GEOZON": {
+    "brand": "Geozon",
+    "type": "фитнес браслет",
+    "material": "пластик",
+    "technology": "TFT",
+    "link": "https://parsinger.ru/html/watch/1/1_28.html",
+    "price": "3790 руб"
+  },
+  "Mi Smart Band 6": {
+    "brand": "Xiaomi",
+    "type": "фитнес браслет",
+    "material": "пластик",
+    "technology": "AMOLED",
+    "link": "https://parsinger.ru/html/watch/1/1_29.html",
+    "price": "4700 руб"
+  },
+  "Jet Kid Pinkie Pie": {
+    "brand": "Jet",
+    "type": "Смарт-часы",
+    "material": "пластик",
+    "technology": "TFT",
+    "link": "https://parsinger.ru/html/watch/1/1_30.html",
+    "price": "5140 руб"
+  },
+  "Jet Sport SW-4C 1.54": {
+    "brand": "Jet",
+    "type": "Смарт-часы",
+    "material": "металл",
+    "technology": "IPS",
+    "link": "https://parsinger.ru/html/watch/1/1_31.html",
+    "price": "4600 руб"
+  },
+  "Jet Kid Optimus Prime": {
+    "brand": "Jet",
+    "type": "Смарт-часы",
+    "material": "пластик",
+    "technology": "TFT",
+    "link": "https://parsinger.ru/html/watch/1/1_32.html",
+    "price": "6050 руб"
+  }
+}
